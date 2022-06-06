@@ -1,6 +1,6 @@
 # stockbit_coin_submission
 
-A new Flutter project.
+Nama Peserta : Indriy                                                                                                    anto Nugroho
 
 ## Clone Application
 
@@ -14,3 +14,5 @@ A new Flutter project.
 - Select emulator (iOS emultor or android emulator)
 - Run 
 
+
+Note: sudah saya siapkan aplikasi android (APK) pada folder APK-submission
